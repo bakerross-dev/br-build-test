@@ -1,11 +1,15 @@
-# br-build-test
-Task List: 
-1. Build a responsive HTML page as per the design attached in the folder for desktop and mobile.
-2. Images are in the assets folder (Rounded image are in the images/categories folder)
-3. CSS and JS should be in the respective folder.
-4. You do not have to follow the exact text on the design. We are mainly looking for layout as per design.
-5. **Mobile specific funtion:** Round images should be scrollable, horizontaly on mobile.
-6. Create 2 versions of the page, one with Basic HTML & CSS.
-7. **Mobile specific funtion:**
-8. And 2nd one should have JS to update Page Title, Save Up To value.
-9. Make the block with rounded category images Sticky when scroll - Desktop only
+# BR-build-test
+
+Task Instructions:
+
+Develop a responsive HTML page based on the provided design, catering to both desktop and mobile views.
+Utilize images from the assets folder, with rounded images available in the images/categories folder.
+Organize CSS and JS files into their respective folders.
+Flexibility is allowed with text content; the primary focus is on achieving the layout as per the design.
+**For mobile devices**, implement a specific functionality: Enable horizontal scrolling for rounded images.
+Create two versions of the page:
+a. First version using Basic HTML & CSS.
+**JS Test**
+b. Second version with additional JavaScript to dynamically update the Page Title and "Save Up To" value.
+Implement a mobile-specific feature: Enable horizontal scrolling for rounded images.
+Implement a desktop-specific feature: Make the block with rounded category images sticky when scrolling (applies to desktop view only).
