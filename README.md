@@ -1,5 +1,12 @@
 # BR-build-test
 
+
+Please follow the design pdf in the repository to achieve the goal.
+
+**Git**
+1. Create a new branch and use that branch to complete the following task.
+2. Push the new branch so we can verify the development.
+
 **Task Instructions:**
 
 1. Develop a responsive HTML page based on the provided design, catering to both desktop and mobile views.
