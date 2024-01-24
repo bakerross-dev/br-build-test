@@ -4,8 +4,9 @@
 Please follow the design pdf in the repository to achieve the goal.
 
 **Git**
-1. Create a new branch and use that branch to complete the following task.
-2. Push the new branch so we can verify the development.
+1. Use cmd to connect to Git. SSH access has been configured so you do not have to use passphrase.  
+2. Create a new branch and use that branch to complete the following task.
+3. Push the new branch so we can verify the development.
 
 **Task Instructions:**
 
